@@ -1,13 +1,12 @@
-
+import Nav from './components/Nav'
 
 function App() {
-
-
-  return (
-    <>
-        <h1 className="text-6xl font-black text-teal-700">Software Engineer</h1>
-    </>
-  )
+    return (
+        <>
+            <Nav />
+            <h1 className="font-display text-8xl font-black uppercase text-teal-700">Software</h1>
+        </>
+    )
 }
 
 export default App

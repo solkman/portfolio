@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+@theme {
+    --font-display: "Archivo", sans-serif;
+    --font-sans: "Manrope", sans-serif;
+
+    --color-bg: #F5F9F8;
+    --color-surface: #FFFFFF;
+    --color-line: #D5E6E2;
+    --color-heading: #0E2724;
+    --color-text: #17302D;
+    --color-muted: #4D6461;
+    --color-ghost: #BCD3CE;
+    --color-accent: #0F766E;
+    --color-on-accent: #FFFFFF;
+    --color-accent-hover: #115E59;
+}
