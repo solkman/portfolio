@@ -9,7 +9,7 @@ const socialLinks = [
 function Hero() {
 
     return (
-        <section className="max-w-7xl mx-auto px-10 py-16">
+        <section className="max-w-7xl mx-auto px-10 py-16 min-h-svh">
 
             <div className=" flex flex-col md:flex-row-reverse gap-12">
                 <div className="flex-1 min-w-0 flex flex-col gap-6 ">
