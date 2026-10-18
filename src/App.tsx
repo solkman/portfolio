@@ -1,10 +1,13 @@
 import Nav from './components/Nav'
+import Hero from "./components/Hero.tsx";
+import About from "./components/About.tsx";
 
 function App() {
     return (
         <>
             <Nav />
-            <h1 className="font-display text-8xl font-black uppercase text-teal-700">Software</h1>
+            <Hero/>
+            <About/>
         </>
     )
 }
