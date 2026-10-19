@@ -7,7 +7,7 @@ function Nav() {
 
     return (
 
-        <nav className="h-16 max-w-7xl mx-auto px-10 flex justify-between items-center border border-accent">
+        <nav className="h-16 max-w-7xl mx-auto px-10 flex justify-between items-center">
             <a href="#" className="font-display text-xl tracking-tight font-black text-heading"><span
                 className="text-accent">Q</span>uido <span className="text-accent">H</span>uba</a>
             <ul className=" hidden md:flex gap-8 ">

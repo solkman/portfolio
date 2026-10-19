@@ -1,7 +1,7 @@
 const stats = [
     { value: "3+", label: "Years of coding" },
     { value: "3", label: "Countries lived in" },
-    { value: "2", label: "Companies worked at" },
+    { value: "3", label: "Companies worked at" },
 ];
 
 function About() {
